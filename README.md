@@ -2,4 +2,4 @@
 软件过程与工具的Lab2的分支管理的仓库
 
 
-BrandAdministration  main B1
+BrandAdministration  B2
